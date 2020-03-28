@@ -13,3 +13,10 @@
 Aplicación diseñada mediante un curso de Udemy acerca de Flutter.
 Contiene lógica de patron BLOC, autenticación de usuarios y base de datos mediante Firebase y api externa para guardar y subir imágenes.
 
+### Login
+
+![Image of pagina](assets/login.png)
+
+### Inicio
+
+![Image of pagina](assets/home.png)
