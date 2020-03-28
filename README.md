@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://i.ibb.co/QX3GQV7/flutter-1024x486.png" width="200">
+  <img src="https://flutter-es.io/images/catalog-widget-placeholder.png" width="200">
   <br><br>
   App de productos
   <br>
