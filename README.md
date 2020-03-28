@@ -1,16 +1,15 @@
-# products
+<h1 align="center">
+  <br>
+  <img src="https://i.ibb.co/QX3GQV7/flutter-1024x486.png" width="200">
+  <br><br>
+  App de productos
+  <br>
+</h1>
+<h4 align="center"><a href="https://github.com/martinbobbio/frontend-adminpro">APP</a></h4>
 
-A new Flutter project.
 
-## Getting Started
+## Descripción
 
-This project is a starting point for a Flutter application.
+Aplicación diseñada mediante un curso de Udemy acerca de Flutter.
+Contiene lógica de patron BLOC, autenticación de usuarios y base de datos mediante Firebase y api externa para guardar y subir imágenes.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
